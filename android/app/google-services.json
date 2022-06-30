@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "655363443831",
+    "project_id": "chatbox-flutter-579fc",
+    "storage_bucket": "chatbox-flutter-579fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655363443831:android:7cea37dfa9b3a8a993ca72",
+        "android_client_info": {
+          "package_name": "com.example.chatbox_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655363443831-rj3mb1fbrrambs9irlek86t4bgdkcqqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvH53JPYWqw7dXs9HmIQcSyB-Di9l7w4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655363443831-rj3mb1fbrrambs9irlek86t4bgdkcqqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655363443831-1hgti50qu4okm5khfqp9rinhd9is6bel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatboxFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
